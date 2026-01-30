@@ -1,0 +1,1 @@
+I'm creating this folder to help organize this repo. I'll place new workflows here from now on. This weekend I'll add a version 3 of the LTX-2 workflow where you can add your own audio and image for lipsyncing.
