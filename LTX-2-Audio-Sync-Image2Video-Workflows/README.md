@@ -3,16 +3,20 @@ I'm creating this folder to help organize this repo. I'll place new workflows he
 
 Version 3 Notes 31Jan2026:
 
-replaced the Tiled VAE decode with the 🅛🅣🅧 LTXV Tiled VAE Decode
+  replaced the Tiled VAE decode with the 🅛🅣🅧 LTXV Tiled VAE Decode
 
-Replaced the Static Camera Lora with the LTX-2-Image2Vid-Adapter.safetensors Lora
-Model card:
-https://huggingface.co/MachineDelusions/LTX-2_Image2Video_Adapter_LoRa
-https://huggingface.co/MachineDelusions/LTX-2_Image2Video_Adapter_LoRa/resolve/main/LTX-2-Image2Vid-Adapter.safetensors?download=true
+  Replaced the Static Camera Lora with the LTX-2-Image2Vid-Adapter.safetensors Lora
+  Model card:
+  https://huggingface.co/MachineDelusions/LTX-2_Image2Video_Adapter_LoRa
+  https://huggingface.co/MachineDelusions/LTX-2_Image2Video_Adapter_LoRa/resolve/main/LTX-2-Image2Vid-Adapter.safetensors?download=true
 
-Rearranged the Model Loading and Loras and put them at the top. Color Coded all areas where you have to download or input something as a RED group.
+  Rearranged the Model Loading and Loras and put them at the top. Color Coded all areas where you have to download or input something as a RED group.
 
-Added an API key version of the workflow
+  Added an API key version of the workflow
+
+
+
+  
 
 Models and Lora List
 
